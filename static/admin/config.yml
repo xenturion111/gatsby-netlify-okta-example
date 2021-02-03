@@ -1,6 +1,7 @@
 backend:
   name: github
-  repo: oktadeveloper/gatsby-netlify-okta-example
+  repo: xenturion111/Gatsbyblog
+
   
 media_folder: static/assets
 public_folder: assets
